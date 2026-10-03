@@ -27,24 +27,22 @@
 
 ### 02 · SYSTEM.INFO
 
-```text
-name    Manish Kumar
-role    Java Full Stack Developer
-edu     B.Tech Computer Science, 2023–2027
-        Vel Tech Rangarajan Dr. Sagunthala
-        R&D Institute of Science and Technology
-intern  AI/ML Developer Intern
-        Infosys Springboard
-focus   Scalable web applications
-        DSA · System design
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-info-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/system-info-light.svg">
+  <img src="./assets/system-info-dark.svg" alt="System info: Manish Kumar, Java Full Stack Developer, B.Tech Computer Science 2023 to 2027 at Vel Tech, AI/ML Developer Intern at Infosys Springboard, focus on scalable web applications, DSA and system design." width="100%">
+</picture>
 
-- 🔭 Building realtime full stack applications with Spring Boot and React
-- 🧠 Applied ML experience: **LSTM / GRU** based predictive maintenance
-- 🧩 Strengthening **Data Structures, Algorithms & System Design**
-- 🎯 Looking for **internships and full-time roles** in backend / full stack engineering
-
----
+<table>
+<tr>
+<td width="50%">🔭 <b>Building</b><br/>Realtime full stack applications with Spring Boot and React</td>
+<td width="50%">🧠 <b>Applied ML</b><br/>LSTM / GRU based predictive maintenance</td>
+</tr>
+<tr>
+<td width="50%">🧩 <b>Strengthening</b><br/>Data Structures, Algorithms &amp; System Design</td>
+<td width="50%">🎯 <b>Looking for</b><br/>Internships and full-time roles in backend / full stack engineering</td>
+</tr>
+</table>
 
 ### 03 · ENGINEERING.STACK
 
