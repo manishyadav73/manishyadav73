@@ -8,7 +8,7 @@
 
 ### 02 · SYSTEM.INFO
 
-```text
+
 name    Manish Kumar
 role    Java Full Stack Developer
 edu     B.Tech Computer Science, 2023–2027
@@ -18,7 +18,7 @@ intern  AI/ML Developer Intern
         Infosys Springboard
 focus   Scalable web applications
         DSA · System design
-```
+
 
 ### 03 · ENGINEERING.STACK
 
@@ -60,18 +60,24 @@ focus   Scalable web applications
 
 ### 05 · BUILD.LOG
 
-```text
+
 # pinned repositories · primary language
 FerryWala                      JavaScript
 PrognosAi_Infosys-SpringBoard  Python
 campus-Event                   HTML
-```
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/feed-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/feed-light.svg">
   <img src="./assets/feed-dark.svg" alt="Pinned repositories and the native GitHub contribution graph follow." width="100%">
 </picture>
+###05.1 · GITHUB.SKYLINE
+<p align="center">
+  <a href="https://gitcity.natrajx.in/manishyadav73">
+    <img src="https://gitcity.natrajx.in/api/svg?u=manishyadav73&theme=aurora" alt="Manish Kumar GitHub Contribution Skyline" width="100%">
+  </a>
+</p>
 
 ### 06 · CONNECT
 
