@@ -161,6 +161,7 @@ campus-Event                   HTML
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-a47057354/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-m1nish__yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/m1nish_yadav/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkryadav7319@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-m1nish_yadav-FFA116?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/m1nish_yadav/)
 
 Open an issue on any repository to start a conversation. 🚀
 
